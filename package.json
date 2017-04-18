@@ -10,6 +10,7 @@
   "dependencies": {
     "babel-preset-env": "^1.3.2",
     "reshape-standard": "^1.0.0",
+    "node-sass": "^3.8.0",
     "spike-css-standards": "^1.0.0",
      "spike": "^0.11.0"
   },
