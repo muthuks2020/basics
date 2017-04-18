@@ -6,7 +6,7 @@
   "ava": {
     "verbose": "true"
   },
-  "bugs": "https://github.com",
+  "bugs": "https://github.com/jescalan/spike-basic/issues",
   "dependencies": {
     "babel-preset-env": "^1.3.2",
     "reshape-standard": "^1.0.0",
@@ -19,10 +19,10 @@
     "spike-core": "^1.0.0",
     "standard": "^10.0.0"
   },
-  "homepage": "https://github.com",
+  "homepage": "https://github.com/jescalan/spike-basic",
   "main": "app.js",
   "private": "true",
-  "repository": "https://github.com",
+  "repository": "https://github.com/jescalan/spike-basic",
   "scripts": {
     "lint": "standard | snazzy",
     "precommit": "npm run lint -s",
