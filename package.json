@@ -1,8 +1,7 @@
 {
   "name": "spike-basic",
   "description": "so basic",
-  "version": "0.0.1",
-  "author": "jescalan",
+ 
   "ava": {
     "verbose": "true"
   },
